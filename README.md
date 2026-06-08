@@ -1,3 +1,2 @@
-bootcamp-
 linux notes
  
